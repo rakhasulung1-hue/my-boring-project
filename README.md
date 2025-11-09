@@ -14,6 +14,7 @@ command list
   - type ex, exit, q, quit (for exit callculator mode)
 -type ex, exit, q, quit (for exit the program)
 
-WARNING!!, you can only download this file if you boring or stupid cz this program is only have Callculator feature, nothing special!!
+WARNING!!, you can only download this file if you boring or stupid cz this program is only have Callculator feature, nothing special!!.
 
+oh yeah, im sory for the language you dont understand cz this program is using 50% engglish and 50% Indonesian Language, but if you wannt to edit this file there is nothing that prohibits editing this file
     
