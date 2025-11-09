@@ -34,7 +34,10 @@ def kallaja_info():
           "\n -c  kalaja Creator, For showing Kallaja Creator"
           "\n exit/quit  To Exit Kalaja"
           "\n Type exit, quit, ex, or q to exit Kalaja."
-          "\n Type info to Open Callculator.")
+          "\n Type call to Open Callculator."
+          "\n Type print"
+          "\n Type print-s for more Better than print"
+          "\n Type kallaja For Showing Something cool i think")
 
 def thred_art():
     print(text2art("Kalaja", font="block", chr_ignore=True))
@@ -188,5 +191,6 @@ Type exit, quit, ex, or q to exit Callculator.""")
 
     else:
         print(usr_input + " Unknown command. Type 'kallaja -h' for help.")
+
 
 
