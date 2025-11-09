@@ -1,9 +1,11 @@
 How to install it
 first you need to install is python and pip on your cmd/Terminal <--(ONLY FOR WINDOWS), but if you using ubuntu server / linux you need to install dos2unix on your linux.
 now install art on your cmd
-command: 
+How To install: 
+- A. For Windows
   - (For windows) winget install python or just installing with search on your google and type download python
   - on Windows User : pip install art
+- B. For Linux
   - on Ubuntu User  : pip3 install art
   - apt install dos2unix (On Ubuntu Oprating System)
   - yum install dos2unix (for fedora,Red hat and centoOS)
@@ -13,7 +15,11 @@ after you finish for installing two, i mean 3 package and then you can starting 
 this file is available on ubuntu server and dekstop
 about the feature nothing special just callculator with no GUI
 
-command list
+If you just want to running without typing "python3" on ubuntu:
+- chmod +x kallajar_for_linux.py
+- dos2unix kallajar_for_linux.py
+
+command list :
 - type kallaja -h (for Viem Command)
 - type kallaja (for something cool)
 - type call (for Open Callculator Mode)
