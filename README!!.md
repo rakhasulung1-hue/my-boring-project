@@ -24,13 +24,14 @@ If you just want to running without typing "python3" on ubuntu:
 - dos2unix kallajar_for_linux.py
 after type this command now try to running it, using this command just add "./",
 or if you want to runing without using "./" go to the chat gpt and asked about this
-cz IM F*C-K*N-G TIRED FOR GIVING TUTORIAL HOW TO DOWNLOAD IT, ok sory isn't funny i know, i just trying make a some joke ;).
+cz IM F*C-K*N-G TIRED FOR GIVING TUTORIAL HOW TO DOWNLOAD IT, ok sory isn't funny i know, im just trying make a some joke ;).
 oke so now lets type this command:
+
 - ./kallajar_for_linux.py
 
 command list :
-- type kallaja -h (for Viem Command)
-- type kallaja (for something cool)
+- type kallaja -h (for View Command)
+- type kallaja (for something cool, i think)
 - type call (for Open Callculator Mode)
   - Type -h (for Showing all command)
   - type ex, exit, q, quit (for exit callculator mode)
