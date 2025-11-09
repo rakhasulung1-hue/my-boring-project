@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import time
 import os
 from art import text2art
@@ -191,6 +192,7 @@ Type exit, quit, ex, or q to exit Callculator.""")
 
     else:
         print(usr_input + " Unknown command. Type 'kallaja -h' for help.")
+
 
 
 
