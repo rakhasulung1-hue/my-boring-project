@@ -1,9 +1,13 @@
 How to install it
-first install pip on your cmd/Terminal, but if you already install it, you can skip this
-when you finish to install pip, now install art on your cmd
-after you finish for installing two package then you can download kallajar.py file
+first install python and pip on your cmd/Terminal, but if you already install it, you can skip this,
+now install art on your cmd
+command: 
+on Windows User : pip install art
+on Ubuntu User  : pip3 install art
 
-this file is available on ubuntu server / ubuntu dekstop
+after you finish for installing two, i mean 3 package and then you can starting download kallajar.py file
+
+this file is available on ubuntu server and dekstop
 about the feature nothing special just callculator with no GUI
 
 command list
