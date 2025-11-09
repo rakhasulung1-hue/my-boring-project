@@ -10,7 +10,7 @@ How To install:
   - apt install dos2unix (On Ubuntu Oprating System)
   - yum install dos2unix (for fedora,Red hat and centoOS)
 
-after you finish for installing two, i mean 3 package and then you can starting download kallajar.py file
+after you finish for installing two, i mean 3 package and then you can starting download kallajar_for_linux.py file
 
 this file is available on ubuntu server and dekstop
 about the feature nothing special just callculator with no GUI
