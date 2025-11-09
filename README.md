@@ -1,9 +1,12 @@
 How to install it
-first install python and pip on your cmd/Terminal, but if you already install it, you can skip this,
+first you need to install is python and pip on your cmd/Terminal <--(ONLY FOR WINDOWS), but if you using ubuntu server / linux you need to install dos2unix on your linux.
 now install art on your cmd
 command: 
-on Windows User : pip install art
-on Ubuntu User  : pip3 install art
+  -(For windows) winget install python or just installing with search on your google and type download python
+  -on Windows User : pip install art
+  -on Ubuntu User  : pip3 install art
+  -apt install dos2unix (On Ubuntu Oprating System)
+  -yum install dos2unix (for fedora,Red hat and centoOS)
 
 after you finish for installing two, i mean 3 package and then you can starting download kallajar.py file
 
