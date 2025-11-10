@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+#V0.0.2.25
 import time
 import os
 from art import text2art
@@ -198,4 +200,5 @@ Type exit, quit, ex, or q to exit Callculator.""")
                 print(f"File '{nama_file}' File Created Successfully!")
                 break
     else:
+
         print( usr_input + " Unknown command. Type 'kallaja -h' for help.")
